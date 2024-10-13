@@ -3,10 +3,32 @@
     <title>ivostork.com - Custom Figma component library</title>
     <link href="https://ivostork.github.io/publii-ivostork/feed.xml" rel="self" />
     <link href="https://ivostork.github.io/publii-ivostork" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-10-13T16:13:53+02:00</updated>
     <author>
         <name>Ivo Stork</name>
     </author>
     <id>https://ivostork.github.io/publii-ivostork</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Ivo Stork</name>
+        </author>
+        <link href="https://ivostork.github.io/publii-ivostork/test.html"/>
+        <id>https://ivostork.github.io/publii-ivostork/test.html</id>
+
+        <updated>2024-10-13T16:13:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Test Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+<p>Test</p>
+<p>Test</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

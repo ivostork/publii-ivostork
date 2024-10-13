@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ivostork.com - Custom Figma component library</title>
+    <link href="https://ivostork.github.io/publii-ivostork/feed.xml" rel="self" />
+    <link href="https://ivostork.github.io/publii-ivostork" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Ivo Stork</name>
+    </author>
+    <id>https://ivostork.github.io/publii-ivostork</id>
+
+</feed>

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ivostork.com - Custom Figma component library",
+    "description": "",
+    "home_page_url": "https://ivostork.github.io/publii-ivostork",
+    "feed_url": "https://ivostork.github.io/publii-ivostork/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ivo Stork"
+    },
+    "items": [
+    ]
+}

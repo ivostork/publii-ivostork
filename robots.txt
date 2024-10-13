@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ivostork.github.io/publii-ivostork/sitemap.xml
